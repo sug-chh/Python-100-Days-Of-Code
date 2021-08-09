@@ -1,7 +1,7 @@
 # Python-100-Days-Of-Code
 ## All my Python projects from 100 days of Code. 
 
-### This repository contains all the Python Projects that I learnt to code during my 100 Days of Code Challange!
+### This repository contains all the Python Projects that I learnt to code during my 100 Days of Code Challange! Lots of love and respect to the one and only Dr. Angela Yu from the bottom of my heart.
 
 #### Contents:
 
