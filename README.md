@@ -1,9 +1,12 @@
 # Python-100-Days-Of-Code
+
 ## All my Python projects from 100 days of Code. 
 
-### This repository contains all the Python Projects that I learnt to code during my 100 Days of Code Challange! Lots of love and respect to the one and only Dr. Angela Yu from the bottom of my heart.
+### This repository contains all the Python Projects that I learnt to code during my 100 Days of Code Challange!
 
-#### Contents:
+#### Lots of love and respect to the one and only Dr. Angela Yu from the bottom of my heart.
+
+### Contents:
 
 - **Beautiful Soup** - Contains three sub-projects. The scripts in this project no longer works as most of the sites are dynamically rendered in the client side. It is just for reference. It belong to Web Scraping Section.
 - **Birthday Wisher** - Its an automated birthday wishing script.
